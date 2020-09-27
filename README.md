@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-<h1 align="center">:rocket: Trainning: backend node typescript :rocket:</h1>
+<h1 align="center">:rocket: Trainning: backend with node and typescript :rocket:</h1>
 
 <p align="center">This is a personal training project for the Rocketseat GoStack course. In this project we will be build API using NodeJS with Typescript.</p>
 
