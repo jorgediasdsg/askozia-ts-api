@@ -99,7 +99,7 @@ Relaxa, assim que ele colocar a base do programa no ar ser√° rescrito todo hist√
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:jorgediasdsg/askozia-ts-api.git
+$ git clone git@github.com:jorgediasdsg/template-node-typescript.git
 
 # Go into the folder of the project
 $ cd askozia-ts-api
